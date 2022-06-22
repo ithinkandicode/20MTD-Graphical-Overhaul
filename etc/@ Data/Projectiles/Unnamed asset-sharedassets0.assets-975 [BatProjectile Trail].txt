@@ -1,0 +1,154 @@
+0 TrailRenderer Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 664
+ 0 bool m_Enabled = true
+ 0 UInt8 m_CastShadows = 0
+ 0 UInt8 m_ReceiveShadows = 0
+ 0 UInt8 m_DynamicOccludee = 1
+ 0 UInt8 m_MotionVectors = 0
+ 0 UInt8 m_LightProbeUsage = 0
+ 0 UInt8 m_ReflectionProbeUsage = 0
+ 1 UInt8 m_RayTracingMode = 0
+ 0 unsigned int m_RenderingLayerMask = 1
+ 0 int m_RendererPriority = 0
+ 0 UInt16 m_LightmapIndex = 65535
+ 0 UInt16 m_LightmapIndexDynamic = 65535
+ 0 Vector4f m_LightmapTilingOffset
+  0 float x = 1
+  0 float y = 1
+  0 float z = 0
+  0 float w = 0
+ 0 Vector4f m_LightmapTilingOffsetDynamic
+  0 float x = 1
+  0 float y = 1
+  0 float z = 0
+  0 float w = 0
+ 0 vector m_Materials
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<Material> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7
+ 0 StaticBatchInfo m_StaticBatchInfo
+  0 UInt16 firstSubMesh = 0
+  0 UInt16 subMeshCount = 0
+ 0 PPtr<Transform> m_StaticBatchRoot
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<Transform> m_ProbeAnchor
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 PPtr<GameObject> m_LightProbeVolumeOverride
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 int m_SortingLayerID = 0
+ 0 SInt16 m_SortingLayer = 0
+ 1 SInt16 m_SortingOrder = 0
+ 0 float m_Time = 0.15
+ 0 LineParameters m_Parameters
+  0 float widthMultiplier = 1
+  0 AnimationCurve widthCurve
+   0 vector m_Curve
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Keyframe data
+       0 float time = 0
+       0 float value = 0.11461212
+       0 float inSlope = 0
+       0 float outSlope = 0
+       0 int weightedMode = 0
+       0 float inWeight = 0.33333334
+       0 float outWeight = 0.33333334
+     [1]
+      0 Keyframe data
+       0 float time = 0.5024738
+       0 float value = 0.06578854
+       0 float inSlope = -0.14399476
+       0 float outSlope = -0.14399476
+       0 int weightedMode = 0
+       0 float inWeight = 0.37786585
+       0 float outWeight = 0.26143783
+     [2]
+      0 Keyframe data
+       0 float time = 1
+       0 float value = 0
+       0 float inSlope = 0
+       0 float outSlope = 0
+       0 int weightedMode = 0
+       0 float inWeight = 0
+       0 float outWeight = 0
+   0 int m_PreInfinity = 2
+   0 int m_PostInfinity = 2
+   0 int m_RotationOrder = 4
+  0 Gradient colorGradient
+   0 ColorRGBA key0
+    0 float r = 0.9607843
+    0 float g = 0.8392157
+    0 float b = 0.75686276
+    0 float a = 0.4
+   0 ColorRGBA key1
+    0 float r = 0.9607843
+    0 float g = 0.8392157
+    0 float b = 0.75686276
+    0 float a = 0.4
+   0 ColorRGBA key2
+    0 float r = 0
+    0 float g = 0
+    0 float b = 0
+    0 float a = 0
+   0 ColorRGBA key3
+    0 float r = 0
+    0 float g = 0
+    0 float b = 0
+    0 float a = 0
+   0 ColorRGBA key4
+    0 float r = 0
+    0 float g = 0
+    0 float b = 0
+    0 float a = 0
+   0 ColorRGBA key5
+    0 float r = 0
+    0 float g = 0
+    0 float b = 0
+    0 float a = 0
+   0 ColorRGBA key6
+    0 float r = 0
+    0 float g = 0
+    0 float b = 0
+    0 float a = 0
+   0 ColorRGBA key7
+    0 float r = 0
+    0 float g = 0
+    0 float b = 0
+    0 float a = 0
+   0 UInt16 ctime0 = 0
+   0 UInt16 ctime1 = 65535
+   0 UInt16 ctime2 = 0
+   0 UInt16 ctime3 = 0
+   0 UInt16 ctime4 = 0
+   0 UInt16 ctime5 = 0
+   0 UInt16 ctime6 = 0
+   0 UInt16 ctime7 = 0
+   0 UInt16 atime0 = 0
+   0 UInt16 atime1 = 65535
+   0 UInt16 atime2 = 0
+   0 UInt16 atime3 = 0
+   0 UInt16 atime4 = 0
+   0 UInt16 atime5 = 0
+   0 UInt16 atime6 = 0
+   0 UInt16 atime7 = 0
+   0 int m_Mode = 0
+   0 UInt8 m_NumColorKeys = 2
+   1 UInt8 m_NumAlphaKeys = 2
+  0 int numCornerVertices = 0
+  0 int numCapVertices = 0
+  0 int alignment = 0
+  0 int textureMode = 0
+  0 float shadowBias = 0.5
+  1 bool generateLightingData = false
+ 0 float m_MinVertexDistance = 0.15
+ 0 bool m_Autodestruct = false
+ 0 bool m_Emitting = true

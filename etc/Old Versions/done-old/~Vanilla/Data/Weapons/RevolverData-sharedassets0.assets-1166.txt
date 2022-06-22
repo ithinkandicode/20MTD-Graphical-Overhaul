@@ -1,0 +1,34 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 462
+ 1 string m_Name = "RevolverData"
+ 0 LocalizedString nameStringID
+  1 string key = "revolver_name"
+ 0 LocalizedString descriptionStringID
+  1 string key = "revolver_description"
+ 0 PPtr<$GameObject> model
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 645
+ 0 PPtr<$SoundEffectSO> gunshotSFX
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1075
+ 0 float damage = 20
+ 0 float shotCooldown = 0.25
+ 0 int maxAmmo = 6
+ 0 float reloadDuration = 1
+ 0 int numOfProjectiles = 1
+ 0 float spread = 0
+ 0 float knockback = 2
+ 0 float projectileSpeed = 20
+ 0 int bounce = 0
+ 0 int piercing = 0
+ 0 float burnChance = 0
+ 0 PPtr<$GameObject> bullet
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 671
+ 1 bool isSummonGun = false
