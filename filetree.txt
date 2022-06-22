@@ -1,0 +1,178 @@
+├───Bosses
+│       ElderBrain.png
+│       ElderBrain_Em.png
+│       T_Shoggoth.png
+│       T_ShubNiggurath.png
+│       T_SpawnerMonster.png
+│       WingedMonster.png
+│       WingedMonster_Em.png
+│
+├───CharacterPortraits
+│       T_Abby_Portrait.png
+│       T_Diamond_Portrait.png
+│       T_Hina_Portrait.png
+│       T_Lilith_Portrait.png
+│       T_Scarlett_Portrait.png
+│       T_Shana_Portrait.png
+│       T_Spark_Portrait.png
+│
+├───Characters
+│       T_Abby.png
+│       T_CharacterShadow.png
+│       T_Diamond.png
+│       T_Hina.png
+│       T_Lilith.png
+│       T_Scarlett.png
+│       T_Shana.png
+│       T_Spark.png
+│
+├───Enemy
+│       Boomer.png
+│       Boomer_Em.png
+│       BrainMonster.png
+│       BrainMonster_Em.png
+│       EyeMonster.png
+│       EyeMonsterProjecitle.png
+│       EyeMonster_Em.png
+│       T_Lamprey.png
+│       T_LampreyEM.png
+│       T_SpawnedBug.png
+│       T_SpawnedBug_Em.png
+│       T_TreeMonster.png
+│
+├───FX
+│       ExplosionFX.png
+│       T_DeathFX.png
+│       T_ElectricWall1.png
+│       T_ElectricWall2.png
+│       T_ElectricWall3.png
+│       T_ElectricWall4.png
+│       T_ElectricWall5.png
+│       T_ElectricWall6.png
+│       T_FireballExplosion.png
+│       T_FireExplosionSmall.png
+│       T_FreezeFXLarge.png
+│       T_FreezeFXSmall.png
+│       T_Guardian_SummonDeathFX.png
+│       T_HolyShield.png
+│       T_HolyShieldBreak.png
+│       T_HolyShieldRegen.png
+│       T_LevelUpFX.png
+│       T_ShadowCloneAttackFX.png
+│       T_ShatterParticles.png
+│       T_ShockwaveFX.png
+│       T_ShoggothLaser.png
+│       T_ShoggothLaserWindup.png
+│       T_StaticParticles.png
+│       T_Thunder.png
+│
+├───GUI
+│       T_20Logo.png
+│       T_AmmoIcon.png
+│       T_Cursor.png
+│       T_CursorSprite.png
+│       T_EyeBlink.png
+│       T_HeartAnimation.png
+│       T_LargeChestAnimation.png
+│       T_PlayButton.png
+│       T_PowerupPanel.png
+│       T_PowerupTreeArrows.png
+│       T_ReloadBar.png
+│       T_SelectorBubble.png
+│       T_SelectScreenPanel.png
+│       T_SoulIcon.png
+│       T_TitleLeaves.png
+│       T_UILock.png
+│       T_UIPanel.png
+│       T_VictoryAchievedIcon.png
+│       T_WorldArrow.png
+│       UIMask.png
+│
+├───Icons
+│       T_Powerups.png
+│       T_RuneIcons.png
+│
+├───Pickups
+│       T_Chest.png
+│       T_DevilDealPickup.png
+│       T_HeartPickup.png
+│       T_ShanaHalo.png
+│
+├───Projectiles
+│       T_BatgunProjectile.png
+│       T_FireParticles.png
+│       T_FireWave.png
+│       T_GunFX.png
+│       T_Icicle.png
+│
+├───Shapes
+│       Soft.png
+│       T_Circle.png
+│       T_RoundedRect.png
+│       T_SmallCircle.png
+│       T_UISmallPanel.png
+│
+├───Summons
+│       T_DragonEgg.png
+│       T_DragonSS.png
+│       T_ElectroBug_SS.png
+│       T_GhostPet_SS.png
+│       T_GunGlyph.png
+│       T_Knife.png
+│       T_MagicLens.png
+│       T_Scythe.png
+│       T_SeismicWard.png
+│       T_ShadowClone.png
+│       T_SpiritSkull.png
+│
+├───Weapons
+│       T_Batgun_SS.png
+│       T_Crossbow_SS.png
+│       T_DualSMGs_SS.png
+│       T_FlameCannon_SS.png
+│       T_GrenadeLauncher_SS.png
+│       T_Revolver_SS.png
+│       T_Shotgun_SS.png
+│
+├───World
+│       T_TileGrass (0.6.1).png
+│       T_TileGrass.png
+│
+└───xUnity
+        box.png
+        button active.png
+        button hover.png
+        button on hover.png
+        button on.png
+        button.png
+        horizontal scrollbar thumb.png
+        horizontal scrollbar.png
+        horizontalslider.png
+        slider thumb active.png
+        slider thumb.png
+        slidert humb hover.png
+        textfield hover.png
+        textfield on.png
+        textfield.png
+        toggle active.png
+        toggle hover.png
+        toggle on active.png
+        toggle on hover.png
+        toggle on.png
+        toggle.png
+        UnitySplash-cube.png
+        UnitySplash-HolographicTrackingLoss.png
+        UnityWatermark-beta.png
+        UnityWatermark-dev.png
+        UnityWatermark-edu.png
+        UnityWatermark-proto.png
+        UnityWatermark-small.png
+        UnityWatermark-trial-big.png
+        UnityWatermark-trial.png
+        UnityWatermarkPlugin-beta.png
+        vertical scrollbar thumb.png
+        vertical scrollbar.png
+        verticalslider.png
+        WarningSign.png
+        window on.png
+        window.png
